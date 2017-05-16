@@ -1,0 +1,2 @@
+This code has a problem when high modes have larger amplitudes than the fundanmental mode
+We however can use the group velocity of fundanmental mode to exlude the wrong time window.
